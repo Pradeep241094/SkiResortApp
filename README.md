@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Also, I have deployed the application using AWS AMPLIFY service through a git CD Pipeline to take the latest build as soon as the code is committed to the main branch.
+
 ## Available Scripts
 
 In the project directory, you can run:
